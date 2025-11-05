@@ -1,0 +1,26 @@
+name: Feature Request
+description: Make a feature request
+title: "[Feature Request]: "
+labels:
+- enhancement
+- triage
+projects:
+- codesmithtech/2
+assignees:
+  - codesmithtech
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to request a new feature
+  - type: textarea
+    id: request
+    attributes:
+      label: Tell us what you'd like replik8s to do
+      description: Be sure to review the full documentation before requesting a feature. You don't want to request something that already exists!
+      placeholder: |
+        First, explain the problem you'd like replik8s to solve.
+
+        Second, propose a way in which replik8s could solve it. If you can't - don't worry. We will make some suggestions when your request goes through the triage process.
+    validations:
+      required: true

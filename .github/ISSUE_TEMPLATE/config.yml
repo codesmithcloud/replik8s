@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project documentation
+    url: https://replik8s.codesmith.cloud
+    about: Please review the full project documentation before raising a bug or feature request
