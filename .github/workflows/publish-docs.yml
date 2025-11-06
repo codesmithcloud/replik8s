@@ -25,4 +25,4 @@ jobs:
       id-token: write
     with:
       context: ./docs
-      name: replik8s-docs
+      name: codesmithcloud/replik8s-docs
