@@ -25,3 +25,4 @@ jobs:
       id-token: write
     with:
       context: ./docs
+      name: replik8s-docs
