@@ -1,0 +1,22 @@
+{
+  "name": "replik8s",
+  "scripts": {
+    "dev": "nuxt dev --extends docus",
+    "build": "nuxt build --extends docus"
+  },
+  "dependencies": {
+    "@nuxt/content": "3.8.0",
+    "@nuxt/eslint": "1.10.0",
+    "@nuxt/image": "1.11.0",
+    "@nuxt/ui": "4.1.0",
+    "better-sqlite3": "^12.2.0",
+    "docus": "latest",
+    "eslint": "^9.0.0",
+    "nuxt": "^4.1.2",
+    "typescript": "^5.6.3",
+    "ipx": "^3.0.0"
+  },
+  "resolutions": {
+    "ipx": "^3.0.0"
+  }
+}

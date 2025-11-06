@@ -1,0 +1,6 @@
+.data
+.output
+dist
+node_modules
+Dockerfile
+.gitignore
